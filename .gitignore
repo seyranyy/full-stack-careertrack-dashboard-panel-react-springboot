@@ -1,0 +1,26 @@
+# React / Node
+careertrack-fe/node_modules/
+careertrack-fe/dist/
+careertrack-fe/.env
+careertrack-fe/.env.local
+
+# Spring Boot / Java
+careertrack-be/target/
+careertrack-be/*.class
+careertrack-be/*.jar
+careertrack-be/*.war
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
+
+# Design/archive files
+Design Login Screen/
+Design Login Screen.zip
