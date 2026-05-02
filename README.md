@@ -135,12 +135,3 @@ This project was built as a portfolio project to demonstrate full-stack developm
 
 
 ---
-
-## 3. Görselleri README’de doğru göstermek için
-
-Görsellerin gerçekten şu path’te olması lazım:
-
-```txt
-CareerTrack/screenshots/login.png
-CareerTrack/screenshots/signup.png
-...
