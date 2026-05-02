@@ -135,3 +135,6 @@ This project was built as a portfolio project to demonstrate full-stack developm
 
 
 ---
+### Swagger API Documentation
+
+![Swagger API Documentation](screenshots/swagger-api-documentation.png)
